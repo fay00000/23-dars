@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: red;
+    background-color: yellow;
+}
+
+p{
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+    background-color: yellow;
+}
+
+h1:hover{
+    color: white;
+    background-color: red;
+    transition: 2s;
+}
